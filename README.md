@@ -57,6 +57,9 @@ Paste your `SLACK_API_TOKEN`, `SLACK_WEBHOOK_URL`, and `SLACK_SLASH_COMMAND_TOKE
 
 Click **Deploy for Free**. Once finished, the **Name** field will now be populated if you didn't choose a name upfront.
 
+### Deploy to Azure
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 ### Finish Slash Command Config
 
 Go back to your Slash Command configuration page, which you left open. Enter your app's URL, which is `https://your-app-name.herokuapp.com`, into the **URL** field. Replace `your-app-name` with the name of your app. Configure it to send a `GET` request to this URL. For example, here is my configuration page:
